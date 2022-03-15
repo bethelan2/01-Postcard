@@ -1,0 +1,40 @@
+---
+title: "Beth Pittuck"
+image: "Beths-Image.jfif"
+links:
+  - label: LinkedIn Profile
+    url: "https://www.linkedin.com/in/bethany-pittuck/"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+Bethany Pittuck is a current employee at BERRI ltd. Her role title is an Assistant Psychologist (Research) and she joined on the 1st of March 2022.
+
+## Education
+
+**University of Greenwich** | Greenwich, United Kingdom
+
+BSc (Hons) Psychology | September 2018 - June 2021
+
+**Drapers' Academy** | Harold Hill, United Kingdom
+
+3 A-Levels. in Psychology, Sociology and English (Lit)| September 2016 - May 2018
+
+**Bower Park Academy** |Romford, United Kingdom
+
+10 GCSE A*- B | September 2011 - July 2016
+
+## Experience
+
+**Assistant Psychologist (Research)** | BERRI Ltd | March 2021 - Present
+
+**Research Assistant** | Short-term role with Supervisor | July 2021 - September 2021
+
+**Volunteer Mentor** | Child and Adolescent Mental Health Service | June 2019 - February 2021
+
+**Summer Camp Coordinator** | Camp Woodhall | August 2019 - February 2020
+
+
+
